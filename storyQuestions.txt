@@ -1,0 +1,3 @@
+a male name,a female name,a place or venue,a funny comment,a funny comment,a funny situation
+a celebrity,a dare,a place or venue,an unlikely event,a consequence,a funny comment
+a famous person,a place or venue,a movie villian,an  event,a funny situation,a consequence

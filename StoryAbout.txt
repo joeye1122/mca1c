@@ -1,0 +1,12 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     The Amazing Silly Story Generator
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ The Amazing Silly Story Generator asks a
+ player to answer in a series of questions.
+ Generating a story, combines those answers
+ to produce some funny results.
+ 
+ It's the perfect game to play with some of
+ your friends, each one contributing their
+ own unique perspective to the story.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
